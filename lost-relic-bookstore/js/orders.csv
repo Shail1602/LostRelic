@@ -1,0 +1,3 @@
+Order ID,User ID,Book ID,Quantity,Total Price,Date,Status
+1,1,1,2,39.98,2024-08-20,Complete
+2,2,3,1,22.50,2024-08-20,Pending

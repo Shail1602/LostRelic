@@ -1,0 +1,29 @@
+[
+ {
+   "Book ID": 1,
+   "Title": "The Hidden Relic",
+   "Author": "John Doe",
+   "Price": 19.99,
+   "Category": "Adventure",
+   "Stock": 25,
+   "Description": "An epic quest to find hidden relics."
+ },
+ {
+   "Book ID": 2,
+   "Title": "Mystery of the Lost",
+   "Author": "Jane Smith",
+   "Price": 14.99,
+   "Category": "Mystery",
+   "Stock": 10,
+   "Description": "A thrilling mystery of lost cities."
+ },
+ {
+   "Book ID": 3,
+   "Title": "Relics Uncovered",
+   "Author": "Richard Roe",
+   "Price": 22.5,
+   "Category": "History",
+   "Stock": 30,
+   "Description": "Exploring relics from ancient times."
+ }
+]
