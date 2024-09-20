@@ -1,0 +1,3 @@
+User ID,Username,Email,Password,Role
+1,user1,user1@example.com,pass1234,customer
+2,admin,admin@example.com,adminpass,admin
